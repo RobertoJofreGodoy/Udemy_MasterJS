@@ -21,7 +21,7 @@ console.log(parseFloat(false_num)+7); //con decimales
 
 console.log(String(integer)+7); //convertimos cualquer variable a texto
 
-// nos devuelve que tipo de dato alamacena una variable
+// nos devuelve que tipo de dato que alamacena una variable
 console.log(typeof integer);
 console.log(typeof string);
 console.log(typeof boolean);
